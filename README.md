@@ -7,7 +7,7 @@ I Love to code and everything associated with it. 🔭 I've worked on lots of do
 I [blog](https://www.ivonet.nl/) often on IT related topics. I started doing this years ago for you and my future self. As I work on many diverse topics I sometimes forget that I already did a thing a few years back and now when I google on a topic I sometimes have the great pleasure to find an article of myself telling myself how to do that thing. Sometimes my blogs are rants on a thing that irritates me or keeps my head busy. Sometimes they are like notes on a topic I had trouble researching and don't want to research again. I hope you enjoy them.
 
 🌱 I’m currently playing with:
-* Reactjs
+* Reactjs  
 √ Kubernetes 
 * CQRS 
 
