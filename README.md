@@ -8,8 +8,8 @@ I [blog](https://www.ivonet.nl/) often on IT related topics. I started doing thi
 
 🌱 I’m currently playing with:
 * Reactjs  
-√ Kubernetes 
-* CQRS 
+* Kubernetes √
+* CQRS √
 
 📫 How to reach me: 
 * [@ivonet](https://twitter.com/ivonet)
