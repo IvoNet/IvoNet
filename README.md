@@ -13,3 +13,6 @@ I [blog](https://www.ivonet.nl/) often on IT related topics. I started doing thi
 
 📫 How to reach me: 
 * [@ivonet](https://twitter.com/ivonet)
+
+
+[![Ivo's github stats](https://github-readme-stats.vercel.app/api?username=IvoNet&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
