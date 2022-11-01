@@ -4,15 +4,18 @@ My name is **Ivo Woltring** and my goal is to help developers get better at what
 
 I Love to code and everything associated with it. 🔭 I've worked on lots of docker related projects and have written a well recieved [Docker, FROM scratch](https://docker-from-scratch.ivonet.nl/) workshop about it (free!!, but a shoutout on twitter is appreciated!). If you are interested in Docker you should definetely check it out. One of my passions is clean code and the mindset needed to do that right.
 
-Somethimes I have the privilege speak at [conferences](https://www.ivowoltring.org#talks) and [meetups](https://www.ivowoltring.org#meetups) or give guest [lectures](https://www.ivowoltring.org#edu) at Dutch Universities. It is something I love to do when I have a topic I am passionate about.
+Somethimes I have the privilege to speak at [conferences](https://www.ivowoltring.org#talks) and [meetups](https://www.ivowoltring.org#meetups) or give guest [lectures](https://www.ivowoltring.org#edu) at Dutch Universities. It is something I love to do when I have a topic I am passionate about.
 
 I blog [IvoNet.nl](https://www.ivonet.nl/) often on IT related topics. I started doing this years ago for you and my future self. As I work on many diverse topics I sometimes forget that I already did a thing a few years back and now when I google on a topic I sometimes have the great pleasure to find an article of myself telling myself how to do that thing. Sometimes my blogs are rants on a thing that irritates me or keeps my head busy. Sometimes they are like notes on a topic I had trouble researching and don't want to research again. I hope you enjoy them.
+
+I love contributing to OpenSource projects. Most recently to the [Jakarta EE starter project](https://start.jakarta.ee/).
 
 🌱 I’m currently playing with:
 * Reactjs  
 * Kubernetes √
 * CQRS √
 * GitHub Actions
+* Jakarta EE
 
 📫 How to reach me: 
 * [@ivonet](https://twitter.com/ivonet)
