@@ -11,7 +11,7 @@ I blog [IvoNet.nl](https://www.ivonet.nl/) often on IT related topics. I started
 I love contributing to OpenSource projects. Most recently to the [Jakarta EE starter project](https://start.jakarta.ee/).
 
 🌱 I’m currently playing with:
-* Advent of Code 2023  
+* Advent of Code  
 * Kubernetes √
 * CQRS √
 * GitHub Actions
