@@ -41,4 +41,4 @@ I love contributing to OpenSource projects. Most recently to the [Jakarta EE sta
 * [@ivonet](https://twitter.com/ivonet)
 
 [![Ivo's github stats](https://github-readme-stats.vercel.app/api?username=IvoNet&show_icon=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvoNet)](https://github.com/anuraghazra/github-readme-stats)
+
