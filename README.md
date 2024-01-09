@@ -40,4 +40,4 @@ I love contributing to OpenSource projects. Most recently to the [Jakarta EE sta
 📫 How to reach me: 
 * [@ivonet](https://twitter.com/ivonet)
 
-[![Ivo's github stats](https://github-readme-stats.vercel.app/api?username=IvoNet&show_icon=true)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
+[![Ivo's github stats](https://github-readme-stats.vercel.app/api?username=IvoNet&show_icon=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
