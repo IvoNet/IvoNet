@@ -15,9 +15,9 @@ I love contributing to OpenSource projects. Most recently to the [Jakarta EE sta
 * FastAPI (Python) √
 * Advanced Algorithms in Python √
 * Architecture Patterns with Python (WIP)
-* Udemy - Advanced Algorithms and Data Structures in Python √
-* Udemy - Django √
-* Udemy - PyTest √
+* Advanced Algorithms and Data Structures in Python √
+* Django √
+* PyTest √
 * Python - miscellaneous topics like:
     * Decorators √ (updated knowledge)
     * Generators √ (Updated knowledge)
