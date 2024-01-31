@@ -35,6 +35,7 @@ I love contributing to OpenSource projects. Most recently to the [Jakarta EE sta
 * Machine Learning and Data Science with Python
 * Creating a Clean Code course (WIP)
 * Openshift
+* ArgoCD
 * Java 22
 
 📫 How to reach me: 
