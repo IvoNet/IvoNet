@@ -34,10 +34,11 @@ I love contributing to OpenSource projects. Most recently to the [Jakarta EE sta
 * [Kubernetes](https://github.com/IvoNet/CKAD-resources) √ (CKAD Certified 2022) - currently updating
 * Machine Learning and Data Science with Python
 * Creating a Clean Code course (WIP)
-* Openshift
 * ArgoCD √
 * helm √
-* Java 22
+* Python Architecture
+* Openshift
+* Java 23
 
 📫 How to reach me: 
 * [@ivonet](https://twitter.com/ivonet)
