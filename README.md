@@ -37,8 +37,10 @@ I love contributing to OpenSource projects. Most recently to the [Jakarta EE sta
 * ArgoCD √
 * helm √
 * Python Architecture
-* Openshift
+* Openshift √
 * Java 23
+* Quarkus
+* Angular
 
 📫 How to reach me: 
 * [@ivonet](https://twitter.com/ivonet)
