@@ -11,39 +11,9 @@ I blog [IvoNet.nl](https://www.ivonet.nl/) often on IT-related topics. I started
 I love contributing to OpenSource projects. Most recently to the [Jakarta EE starter project](https://start.jakarta.ee/).
 
 🌱 I’m currently playing with:
-* Python 3.12.1 √
-* FastAPI (Python) √
-* Advanced Algorithms in Python √
-* Architecture Patterns with Python (WIP)
-* Advanced Algorithms and Data Structures in Python √
-* Django √
-* PyTest √
-* Python - miscellaneous topics like:
-    * Decorators √ (updated knowledge)
-    * Generators √ (Updated knowledge)
-    * new language features like switch √
-    * flake8 √
-    * Black √
-    * PyTest √
-    * SQLAlchemy (WIP)
-    * isort √
-    * mypy √
-    * pylint √
-    * Enterprise Python (WIP)
-* [Advent of Code 2023](https://github.com/IvoNet/advent-of-code) √ (50 Stars this year!) - 
-* [Kubernetes](https://github.com/IvoNet/CKAD-resources) √ (CKAD Certified 2022) - currently updating
-* Machine Learning and Data Science with Python
-* Creating a Clean Code course (WIP)
-* ArgoCD √
-* helm √
-* Python Architecture
-* Openshift √
 * Java 23
 * Quarkus
 * Angular
-
-📫 How to reach me: 
-* [@ivonet](https://twitter.com/ivonet)
 
 [![Ivo's github stats](https://github-readme-stats.vercel.app/api?username=IvoNet&show_icon=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
